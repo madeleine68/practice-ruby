@@ -1,4 +1,3 @@
-require './players'
 class Game
     def initialize(name)
         @name = name 
